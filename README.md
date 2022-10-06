@@ -2,7 +2,7 @@
 
 My name is Ash (he/him) - I'm a Cyber Security engineer by trade, but a developer in my free time.
 
-I'm currently working on projects revolving around the Twitch ecosystem, specifically targeting applications that help streamers achieve what they want.
+I'm currently working on projects revolving around the content creation ecosystem, specifically targeting applications that help streamers achieve what they want.
 
 If you want to reach me, shoot me an email or a DM on Twitter.
 
