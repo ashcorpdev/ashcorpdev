@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ash (he/him) - I'm a Cyber Security engineer by trade, but a developer in my free time.
+My name is Ash (he/him) - I'm a Cybersecurity engineer by trade, but a developer in my free time.
 
 I'm currently working on projects revolving around the content creation ecosystem, specifically targeting applications that help streamers achieve what they want.
 
